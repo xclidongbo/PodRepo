@@ -11,4 +11,8 @@
 - (void)baseAA {
     NSLog(@"1111");
 }
+
+- (void)baseBB {
+    NSLog(@"1111");
+}
 @end

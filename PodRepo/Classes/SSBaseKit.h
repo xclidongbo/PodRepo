@@ -11,6 +11,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface SSBaseKit : NSObject
 -(void)baseAA;
+
+- (void)baseBB;
 @end
 
 NS_ASSUME_NONNULL_END
