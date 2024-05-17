@@ -1,0 +1,22 @@
+{
+  "name": "PodRepo",
+  "version": "0.1.0",
+  "summary": "A short description of PodRepo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xclidongbo/PodRepo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xclidongbo": "xclidongbo@126.com"
+  },
+  "source": {
+    "git": "https://github.com/xclidongbo/PodRepo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PodRepo/Classes/**/*"
+}

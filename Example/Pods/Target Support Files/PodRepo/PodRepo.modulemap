@@ -1,0 +1,6 @@
+framework module PodRepo {
+  umbrella header "PodRepo-umbrella.h"
+
+  export *
+  module * { export * }
+}
